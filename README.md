@@ -14,16 +14,16 @@ When your laptop wake up or powered on, the script will automatically execute, t
 
 ## Requirements
 
-1. You'll need To get ~~[Sleep Watcher 2.2.1 or above](https://www.bernhard-baehr.de/) which supports Mac OS X >= 10.5.~~ This doesn't seem to work, instead, get [hammerspoon](https://github.com/Hammerspoon/hammerspoon/) and load the lua script inside the repo. Don't forget to change the username accordingly.
-2. You'll need to download the detection model from [italojs facial-landmarks-recognition repository](https://github.com/italojs/facial-landmarks-recognition)
-3. You'll need to install the following libraries: pygame,numpy,dlib,cv2,matplot,pillow,statistics. to install dlib you'll need to install cmake first.
-4. You'll need to either integrate TTS service or get a free sample file, I used [TTSMp3](https://ttsmp3.com/) to download the TTS mp3 file.
+1. Get ~~[Sleep Watcher 2.2.1 or above](https://www.bernhard-baehr.de/) which supports Mac OS X >= 10.5.~~ This doesn't seem to work, instead, get [hammerspoon](https://github.com/Hammerspoon/hammerspoon/) and load the lua script inside the repo. Don't forget to change the username accordingly.
+2. Download the detection model from [italojs facial-landmarks-recognition repository](https://github.com/italojs/facial-landmarks-recognition)
+3. Install the following libraries: pygame,numpy,dlib,cv2,matplot,pillow,statistics. to install dlib you'll need to install cmake first.
+4. Itegrate TTS service or get a free sample file, I used [TTSMp3](https://ttsmp3.com/) to download the TTS mp3 file.
 5. Make sure to chmod +x script.sh to ensure it's executed.
 6. Permit OSX permissions when asked through security center.
 
 ## Deamon installation
 
-Inside sleep watcher readme file there are detailed instructions on executing the deamon.
+~~Inside sleep watcher readme file there are detailed instructions on executing the deamon.~~
 
 ## Credits
 

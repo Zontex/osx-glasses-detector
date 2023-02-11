@@ -1,6 +1,6 @@
 # osx-glasses-detector
 
-Detect if you wear glasses during OSX system startup and notify you to wear it if you don't.
+Detect if you wear glasses during OSX system startup / wake up from sleep and notify you to wear it if you don't.
 
 ## Overview
 

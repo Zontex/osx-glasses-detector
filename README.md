@@ -21,6 +21,8 @@ When your laptop wake up or powered on, the script will automatically execute, t
 5. Make sure to chmod +x script.sh to ensure it's executed.
 6. Permit OSX permissions when asked through security center.
 
+Modify script.sh turn it into .wakeup shell script in the user root directory.
+
 ## Deamon installation
 
 ~~Inside sleep watcher readme file there are detailed instructions on executing the deamon.~~

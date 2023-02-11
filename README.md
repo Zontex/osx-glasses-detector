@@ -4,9 +4,9 @@ Detect if you wear glasses during OSX system startup / wake up from sleep and no
 
 ## Overview
 
-I'm suffering from extreme headaches when I don't put on my reading glasses when I use my laptop, often I either forget or I can't bother putting them on. I've decided to make a script that notifies me of each laptop startup to put on my glasses if I don't put them already.
+I experience debilitating headaches when I neglect to wear my reading glasses while using my laptop. Unfortunately, I often forget or simply don't feel like putting them on. To overcome this challenge, I've created a Python script that serves as a reminder each time I start up my laptop.
 
-The script is combined from multiple sources into a single code for convenient use, using the openCV object detection model.
+The script, which has been pieced together from various sources, uses the openCV object detection model to detect if I'm wearing my glasses. If I'm not, the script will issue a notification, reminding me to put them on for a more comfortable and headache-free experience.
 
 ## Expected results
 
